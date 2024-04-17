@@ -1,0 +1,26 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+body {
+    background: #24353f;
+    font-family: 'Titillium Web', sans-serif;
+    height: 85vh;
+    
+}
+
+.group {
+    
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+
+h1 {
+    color: #17a2b8;
+}
+
+input {
+    background-color: transparent !important;
+    color: #fff !important;
+}
+
+
+
